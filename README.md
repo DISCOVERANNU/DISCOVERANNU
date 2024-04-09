@@ -4,7 +4,7 @@
 - 💞️ I’m looking to work remotely.
 - 📫 How to reach me ...akyblp@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...comic
 
 <!---
 DISCOVERANNU/DISCOVERANNU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
