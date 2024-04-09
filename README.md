@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashok kumar yadav
-- 👀 I’m interested in singing.
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning front end develeopmenet.
 - 💞️ I’m looking to work remotely.
 - 📫 How to reach me ...
